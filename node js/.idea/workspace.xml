@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf8cfcaa-cde5-4cda-b4d1-5ad81584adbc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="220dMYj18fufg1Ket3wM7ZZTPvd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project" />
+    <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf8cfcaa-cde5-4cda-b4d1-5ad81584adbc" name="Default Changelist" comment="" />
+      <created>1638978390533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638978390533</updated>
+      <workItem from="1638978391891" duration="1828000" />
+      <workItem from="1639059110966" duration="3215000" />
+      <workItem from="1639067042725" duration="2465000" />
+      <workItem from="1639322692346" duration="6066000" />
+      <workItem from="1639409544220" duration="1984000" />
+      <workItem from="1639411600472" duration="1452000" />
+      <workItem from="1639936067322" duration="201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="133" y="219" width="230" height="596" key="#Notifications" timestamp="1639323338757">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="133" y="219" width="230" height="596" key="#Notifications/0.0.1600.870@0.0.1600.870" timestamp="1639323338757" />
+    <state x="254" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638980208550">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="254" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.870@0.0.1600.870" timestamp="1638980208550" />
+    <state x="538" y="237" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1639326156837">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="538" y="237" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.870@0.0.1600.870" timestamp="1639326156837" />
+    <state x="710" y="192" key="FileChooserDialogImpl" timestamp="1639936102186">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="710" y="192" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1639936102186" />
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1638980204125">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.1600.870@0.0.1600.870" timestamp="1638980204125" />
+    <state x="301" y="80" key="SettingsEditor" timestamp="1639323658147">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="301" y="80" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1639323658147" />
+    <state x="456" y="198" key="run.anything.popup" timestamp="1638980204136">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="456" y="198" key="run.anything.popup/0.0.1600.870@0.0.1600.870" timestamp="1638980204136" />
+  </component>
+</project>
